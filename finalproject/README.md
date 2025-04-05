@@ -121,11 +121,12 @@ Transfer learning is a technique that enables leveraging the knowledge learned f
 
 ## Dependencies
 
+
+- [Python](https://docs.python.org/3/)
 - [TensorFlow.js](https://www.tensorflow.org/js)  
-- [Keras](https://keras.io/)  
 - [npm](https://www.npmjs.com/)  
 - [React.js](https://reactjs.org/)  
-
+- [YOLO](https://docs.ultralytics.com/models/yolo11/)(https://www.researchgate.net/publication/372822309_Wild_Animals_Detection_Based_on_YOLOv5)
 ---
 
 ## Installation
@@ -139,7 +140,7 @@ Install Node.js and npm using the link above. Npm is included with Node.js.
 Clone the repository:
 
 ```bash
-git clone https://github.com/praveenaso/gdsc.git
+git clone https://github.com/KIET-2025-BATCH/KW-AID-DS-T15.git
 ```
 
 Install all dependencies:
